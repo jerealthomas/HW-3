@@ -1,0 +1,7 @@
+Last login: Thu Feb 18 14:27:02 on ttys000
+jerealthomas@Jereals-MBP ~ % cd js-foundations/labs
+jerealthomas@Jereals-MBP labs % touch array.js
+jerealthomas@Jereals-MBP labs % node array.js
+shoppingList: [ 'pizza', 'rice', 'beans', 'tea' ]
+cart: [ 'bread', 'apples' ]
+jerealthomas@Jereals-MBP labs % 
