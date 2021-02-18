@@ -1,0 +1,56 @@
+Last login: Thu Feb 11 17:40:27 on ttys000
+jerealthomas@Jereals-MBP ~ % cd $HOME
+jerealthomas@Jereals-MBP ~ % mkdir js-foundations
+jerealthomas@Jereals-MBP ~ % cd js-foundations
+jerealthomas@Jereals-MBP js-foundations % mkdir labs
+jerealthomas@Jereals-MBP js-foundations % cd labs
+jerealthomas@Jereals-MBP labs % touch hello.js
+jerealthomas@Jereals-MBP labs % $ node hello.js
+zsh: command not found: $
+jerealthomas@Jereals-MBP labs % node hello.js
+zsh: command not found: node
+jerealthomas@Jereals-MBP labs % node hello.js
+zsh: command not found: node
+jerealthomas@Jereals-MBP labs % $ node hello.js
+zsh: command not found: $
+jerealthomas@Jereals-MBP labs % $ node hello.js
+zsh: command not found: $
+jerealthomas@Jereals-MBP labs % node hello.js
+zsh: command not found: node
+jerealthomas@Jereals-MBP labs % $ node hello.js
+zsh: command not found: $
+jerealthomas@Jereals-MBP labs % node hello.js
+zsh: command not found: node
+jerealthomas@Jereals-MBP labs % node hello.js
+/Users/jerealthomas/js-foundations/labs/hello.js:1
+<!DOCTYPE html>
+^
+
+SyntaxError: Unexpected token '<'
+    at wrapSafe (node:internal/modules/cjs/loader:1024:16)
+    at Module._compile (node:internal/modules/cjs/loader:1072:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)
+    at Module.load (node:internal/modules/cjs/loader:973:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:813:14)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)
+    at node:internal/main/run_main_module:17:47
+jerealthomas@Jereals-MBP labs % $ node hello.js
+zsh: command not found: $
+jerealthomas@Jereals-MBP labs % node hello.js
+/Users/jerealthomas/js-foundations/labs/hello.js:1
+<!DOCTYPE html>
+^
+
+SyntaxError: Unexpected token '<'
+    at wrapSafe (node:internal/modules/cjs/loader:1024:16)
+    at Module._compile (node:internal/modules/cjs/loader:1072:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)
+    at Module.load (node:internal/modules/cjs/loader:973:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:813:14)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)
+    at node:internal/main/run_main_module:17:47
+jerealthomas@Jereals-MBP labs % node hello.js
+Hello, JavaScript
+14
+The sum of 7 + 2 =  9
+jerealthomas@Jereals-MBP labs % 
