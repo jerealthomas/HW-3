@@ -1,0 +1,9 @@
+Last login: Thu Feb 18 14:25:10 on console
+jerealthomas@Jereals-MBP ~ % cd js-foundations/labs
+jerealthomas@Jereals-MBP labs % touch string.js
+jerealthomas@Jereals-MBP labs % node string.js
+The value of 3 + 5 = 8
+Hello, my name is Homer D. Poe!
+I am 40 years old.
+jerealthomas@Jereals-MBP labs % 
+
